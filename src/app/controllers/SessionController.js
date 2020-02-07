@@ -1,6 +1,6 @@
 import jwt from 'jsonwebtoken';
-import User from '../models/user';
 
+import User from '../models/user';
 import AuthConfig from '../../config/auth';
 
 class SessionController {
